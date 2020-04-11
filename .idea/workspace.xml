@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46f11f4f-777a-4e33-a605-404b6158ac02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/05-xpath.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-css-selector.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-multiplos-itens.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-Download-fotos.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-Atributos.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Atributos.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webscraping.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webscraping.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-total-itens.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-percorre-paginas.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-persiste-dados.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +47,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/1622-web-scraping-php-aula5/12-percorre-paginas.php" />
+    <property name="two.files.diff.last.used.file" value="$USER_HOME$/Downloads/1622-web-scraping-php-aula5/12-percorre-paginas.php" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -77,7 +68,8 @@
       <workItem from="1585791695193" duration="3179000" />
       <workItem from="1585842478158" duration="765000" />
       <workItem from="1585847287225" duration="146000" />
-      <workItem from="1585856631803" duration="4456000" />
+      <workItem from="1585856631803" duration="4694000" />
+      <workItem from="1586562827156" duration="4595000" />
     </task>
     <servers />
   </component>
@@ -85,6 +77,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1979" y="379" width="509" height="383" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586564201546">
+      <screen x="1280" y="36" width="1920" height="1080" />
+    </state>
+    <state x="1979" y="379" width="509" height="383" key="#com.intellij.fileTypes.FileTypeChooser/1280.36.1920.1080/0.0.1280.720/3200.130.1366.768@1280.36.1920.1080" timestamp="1586564201546" />
+    <state x="1836" y="170" width="788" height="801" key="CommitChangelistDialog2" timestamp="1586563010483">
+      <screen x="1280" y="36" width="1920" height="1080" />
+    </state>
+    <state x="1836" y="170" width="788" height="801" key="CommitChangelistDialog2/1280.36.1920.1080/0.0.1280.720/3200.130.1366.768@1280.36.1920.1080" timestamp="1586563010483" />
+    <state x="1380" y="136" width="1710" height="875" key="DiffContextDialog" timestamp="1586567241366">
+      <screen x="1280" y="36" width="1920" height="1080" />
+    </state>
+    <state x="1380" y="136" width="1710" height="875" key="DiffContextDialog/1280.36.1920.1080/0.0.1280.720/3200.130.1366.768@1280.36.1920.1080" timestamp="1586567241366" />
+    <state x="2018" y="331" width="424" height="479" key="FileChooserDialogImpl" timestamp="1586567239994">
+      <screen x="1280" y="36" width="1920" height="1080" />
+    </state>
+    <state x="2018" y="331" width="424" height="479" key="FileChooserDialogImpl/1280.36.1920.1080/0.0.1280.720/3200.130.1366.768@1280.36.1920.1080" timestamp="1586567239994" />
     <state x="2058" y="501" width="354" height="147" key="NewPhpFileDialog" timestamp="1585791876078">
       <screen x="1280" y="36" width="1920" height="1080" />
     </state>
